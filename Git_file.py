@@ -1,6 +1,6 @@
-import os
-import shutil
-import zipfile
+#import os
+#import shutil
+#import zipfile
 
 # Делаем обход всего дерева каталога:
 
